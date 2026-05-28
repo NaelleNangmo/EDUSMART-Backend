@@ -17,6 +17,10 @@
     "test:verbose": "jest --verbose --runInBand --forceExit --detectOpenHandles"
   },
 
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "keywords": [],
   "author": "NaelleNangmo",
   "license": "ISC",
